@@ -52,3 +52,5 @@ I've already worked on several real-world projects and I'm continuously learning
 ---
 
 ⭐ Thanks for visiting my profile!
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=aminscodes)](https://github.com/stats-organization/github-stats-extended)
